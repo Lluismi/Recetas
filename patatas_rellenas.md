@@ -51,3 +51,7 @@
 > Del horno a la mesa, como más ricas están es recién hechas. Eso si, es una receta que puedes dejar lista con antelación a falta solamente de los 10 minutos finales de horno, y si te sobran puedes mantenerlas en la nevera 2-3 días sin problemas y después recalentarlas en el horno o en el microondas.
 
 > Es una delicia cualquier receta que lleve un buen queso gratinado por encima y a eso se suma la ternura de las patatas junto con el sabrosísimo relleno que las acompaña. Con una ensalada o cualquier guarnición ligerita y sencilla tendrás un platazo de auténtico… ¡escándalo!
+
+## Consejos
+
+Es importante que las patatas sean todas de un tamaño similar para que se cocinen a la vez. Así se hornearán por completo antes y estarán deliciosas.
