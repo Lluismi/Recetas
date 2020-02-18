@@ -15,7 +15,11 @@
 
 3. Cogemos la sartén más grande que tengamos, la ponemos al fuego y añadimos un buen chorro de aceite de oliva.
 
+<<<<<<< HEAD
+4. Introducimos las patatas cortadas, ya saladas y dejamos que se cocinen aproximadamente20 min a fuego lento.
+=======
 4. Introducimos las patatas cortadas, ya saladas y dejamos que se cocinen aproximadamente 20 min a fuego lento.
+>>>>>>> 8e487d8a824a04aaa63fd6bfc446f204650c15a5
 
 5. Mientras se frien las patatas cogemos el bol y batimos los huevos.
 
@@ -23,6 +27,9 @@
 
 7. Cogemos otra sartén calentamos aceite de oliva y añadimos los trozos de cebolla.
 
+<<<<<<< HEAD
+8. Al añadir antes la cebolla se hará antes que las patatas, escurrimos y añadimos al bol con los huevos batidos.
+=======
 8. Al añadir antes la cebolla se hará antes que las patatas, escurrimos y añadimos al bol con los huevos batidos.
 
 9. Quitamos con una espumadera el máximo de aceite posible, para dejar las patatas con el minimo aceita posible escurriendo bien.
@@ -34,3 +41,4 @@
 12. Cocinamos la tortilla durante 4 o 6 min a fuego medio-alto por cada lado, depende de lo cuajada que queramos la tortilla
 
 13. Para darle la vuelto emplearemos un plato plano grande o una tapadera de borde liso, utilizaremos el metodo más comodo para que no se derrame con cuidado y ya tendriamos nuestra tortilla de patatas **con cebolla**
+>>>>>>> 8e487d8a824a04aaa63fd6bfc446f204650c15a5
